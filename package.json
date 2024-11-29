@@ -15,11 +15,7 @@
     "ecmel.vscode-html-css", 
     "github.remotehub", 
     "github.vscode-pull-request-github", 
-    "igorsbitnev.error-gutters", 
-    "mky.netflix-red", 
-    "ms-python.debugpy", 
-    "ms-python.python", 
-    "ms-python.vscode-pylance", 
+    "igorsbitnev.error-gutters",  
     "ms-vscode.azure-repos", 
     "ms-vscode.remote-repositories", 
     "ms-vsliveshare.vsliveshare", 
@@ -30,6 +26,13 @@
     "vscjava.vscode-spring-initializr", 
     "vscodeempaths.erroraffirmations", 
     "waderyan.gitblame", 
+    "streetsidesoftware.code-spell-checker",
+    "usernamehw.errorlens",
+    "vscjava.vscode-java-pack",
+    "github.codespaces",
+    "redhat.java",
+    "jawandarajbir.react-vscode-extension-pack",
+    "xabikos.reactsnippets",
     "wscats.cors-browser"
   ]
 }
