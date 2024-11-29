@@ -1,0 +1,35 @@
+{
+  "name": "testextensionpack",
+  "displayName": "TestExtensionPack",
+  "description": "test to see if we can make this work",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "bierner.markdown-preview-github-styles", 
+    "eamodio.gitlens", 
+    "ecmel.vscode-html-css", 
+    "github.remotehub", 
+    "github.vscode-pull-request-github", 
+    "igorsbitnev.error-gutters", 
+    "mky.netflix-red", 
+    "ms-python.debugpy", 
+    "ms-python.python", 
+    "ms-python.vscode-pylance", 
+    "ms-vscode.azure-repos", 
+    "ms-vscode.remote-repositories", 
+    "ms-vsliveshare.vsliveshare", 
+    "oderwat.indent-rainbow", 
+    "pixl-garden.bongocat", 
+    "tonybaloney.vscode-pets", 
+    "vscjava.vscode-gradle", 
+    "vscjava.vscode-spring-initializr", 
+    "vscodeempaths.erroraffirmations", 
+    "waderyan.gitblame", 
+    "wscats.cors-browser"
+  ]
+}
