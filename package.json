@@ -33,6 +33,7 @@
     "redhat.java",
     "jawandarajbir.react-vscode-extension-pack",
     "xabikos.reactsnippets",
-    "wscats.cors-browser"
+    "wscats.cors-browser",
+    "wpilibsuite.vscode-wpilib"
   ]
 }
